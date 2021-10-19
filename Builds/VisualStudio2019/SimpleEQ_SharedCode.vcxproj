@@ -87,8 +87,7 @@
       <OutputFile>$(IntDir)\SimpleEQ.bsc</OutputFile>
     </Bscmake>
     <PostBuildEvent>
-      <Command>
-      </Command>
+      <Command>echo</Command>
     </PostBuildEvent>
     <PostBuildEvent>
       <Message>
